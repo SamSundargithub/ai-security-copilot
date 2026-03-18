@@ -130,8 +130,9 @@ python -m streamlit run app.py
 ---
 
 ## 📸 Demo 
+<img width="200" height="300" alt="Screenshot (27)" src="C:\Users\ELCOT\OneDrive\Pictures\Screenshots 1" />
 
-
+![Alt Text](C:\Users\ELCOT\OneDrive\Pictures\Screenshots 1)
 
 ## 🎯 Future Improvements
 
