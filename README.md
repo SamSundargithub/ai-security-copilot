@@ -130,9 +130,7 @@ python -m streamlit run app.py
 ---
 
 ## 📸 Demo 
-<img width="200" height="300" alt="Screenshot (27)" src="C:\Users\ELCOT\OneDrive\Pictures\Screenshots 1" />
-
-![Alt Text](C:\Users\ELCOT\OneDrive\Pictures\Screenshots 1)
+ Images are in the files named as 1) UserInterface.png,  2) Documents.png,  3) CVE_lookup.png
 
 ## 🎯 Future Improvements
 
